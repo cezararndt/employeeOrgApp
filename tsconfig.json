@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "esnext",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "forceConsistentCasingInFileNames": true,
+  },
+  "include": [
+    "src"
+  ]
+}
